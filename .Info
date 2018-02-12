@@ -1,0 +1,6 @@
+.Info
+
+Build Instructions
+------------------------------------------------------------------------
+swiftc -target x86_64-apple-macosx10.13 GameWorld.swift
+./GameWorld
